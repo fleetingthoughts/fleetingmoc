@@ -26,4 +26,5 @@ Staples:
 
 Others:
 - Kashtira Fenrir
-- 
+- Kashtira Riseheart
+- tearlaments kashtira
