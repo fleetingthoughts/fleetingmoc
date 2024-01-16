@@ -28,3 +28,6 @@ Others:
 - Kashtira Fenrir
 - Kashtira Riseheart
 - tearlaments kashtira
+- Number F0: Utopic Draco Future
+- Super Starslayer TY-PHON - Sky Crisis
+- 
