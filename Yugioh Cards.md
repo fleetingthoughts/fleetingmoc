@@ -7,8 +7,15 @@ Dragon Ruler Main:
 - Stream, Dragon ruler of Droplets
 - Redox Dragon ruler of Boulders
 - Reactan Dragon Ruler of Pebbles
-- Blaster Dragon ruler of Infernos
-- Burner Dragon ruler of Sparks
+- 
+- Spright elf
+- Garden Rose Maiden
+- MAx CC
+- Apollusa Bow of the Goddess
+- shooting rise dragon
+- Aa-Zeus
+- Mecha phantom beast auroradon
+- I:P Masquerena
 
 Staples:
 - Droll
