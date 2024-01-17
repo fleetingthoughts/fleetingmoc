@@ -16,6 +16,7 @@ Dragon Ruler Main:
 - Aa-Zeus
 - Mecha phantom beast auroradon
 - I:P Masquerena
+- Pile Armed Dragon
 
 Staples:
 - Droll
