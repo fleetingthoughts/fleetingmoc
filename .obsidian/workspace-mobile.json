@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting MOC.md",
-                "mode": "preview",
+                "file": "Yugioh Cards.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fleeting MOC.md",
+            "file": "Yugioh Cards.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fleeting MOC.md",
+            "file": "Yugioh Cards.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fleeting MOC.md"
+            "file": "Yugioh Cards.md"
           }
         }
       }
@@ -142,6 +142,9 @@
   },
   "active": "a1687bed11e1c16f",
   "lastOpenFiles": [
-    "Fleeting MOC.md"
+    "Fleeting MOC.md",
+    "Yugioh Cards.md",
+    "/Yugioh Cards.md",
+    "/Fleeting MOC.md"
   ]
 }

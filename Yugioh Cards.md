@@ -2,6 +2,22 @@ Parent::[[Fleeting MOC]]
 
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
+Staples
+- dark ruler no more
+- book of lunar eclipse
+- crossout designator
+- forbidden chalice
+- forbidden Lance 
+- solemn judgement
+- kurikara the divine incarnate
+- raigeiki
+- retaliating c
+- 
+
+
+
+
+
 Dragon Ruler Main:
 - Tidal, Dragon ruler
 - Stream, Dragon ruler of Droplets
@@ -17,6 +33,9 @@ Dragon Ruler Main:
 - Mecha phantom beast auroradon
 - I:P Masquerena
 - Pile Armed Dragon
+- master of blades
+
+
 
 Staples:
 - Droll
