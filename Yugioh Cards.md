@@ -28,10 +28,12 @@ Dragon Ruler Deck 1:
 - Garden Rose Maiden
 - MAx CC
 - Apollusa Bow of the Goddess
+	- rarity pack 2
 - shooting rise dragon
 - Aa-Zeus
 - Mecha phantom beast auroradon
 - I:P Masquerena
+	- rarity pack 2
 - Pile Armed Dragon
 - master of blades
 
