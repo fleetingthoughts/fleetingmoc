@@ -3,14 +3,13 @@ Parent::[[Fleeting MOC]]
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
 Staples
-- dark ruler no more
 - book of lunar eclipse
 - crossout designator
-- forbidden chalice
+- forbidden chalice  44c
 - forbidden Lance 
 - solemn judgement
-- kurikara the divine incarnate
-- raigeiki
+- kurikara the divine incarnate - 33.66 (secret rare)
+- raigeiki - 2.69
 - retaliating c
 - 
 
