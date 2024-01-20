@@ -18,7 +18,7 @@ Staples
 
 
 
-Dragon Ruler Main:
+Dragon Ruler Deck 1:
 - Tidal, Dragon ruler
 - Stream, Dragon ruler of Droplets
 - Redox Dragon ruler of Boulders
@@ -51,10 +51,10 @@ Staples:
 - Harpie's feather duster
 - Snatch steal
 
-Others:
+druler Deck 2 (Kashtira)
 - Kashtira Fenrir
-- Kashtira Riseheart
 - tearlaments kashtira
+- accel
 - Number F0: Utopic Draco Future
 - Super Starslayer TY-PHON - Sky Crisis
 - 
