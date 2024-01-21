@@ -1,4 +1,5 @@
 Parent::[[Fleeting MOC]]
+
 // Yu-Gi-Oh! Deck List 
 == MONSTER CARDS (34 cards) == 
 1 Labrynth Cooclock

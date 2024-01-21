@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yugioh Cards.md",
+                "file": "General Cards to look for.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labrynth.md",
+                "file": "Fleeting MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labrynth.md",
+                "file": "Fleeting MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labrynth.md",
+                "file": "Fleeting MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labrynth.md"
+                "file": "Fleeting MOC.md"
               }
             }
           }
@@ -197,10 +197,10 @@
   },
   "active": "da91fad839be7aa0",
   "lastOpenFiles": [
-    "Labrynth.md",
     "DRuler no ban deck.md",
-    "Yugioh Cards.md",
+    "General Cards to look for.md",
     "Fleeting MOC.md",
+    "Labrynth.md",
     "Master Duel Pull plans.md"
   ]
 }
