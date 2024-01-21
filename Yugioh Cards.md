@@ -18,23 +18,20 @@ Staples
 
 
 Dragon Ruler Deck 1:
-- Tidal, Dragon ruler
-- Stream, Dragon ruler of Droplets
-- Redox Dragon ruler of Boulders
-- Reactan Dragon Ruler of Pebbles
-- 
-- Spright elf
-- Garden Rose Maiden
-- MAx CC
-- Apollusa Bow of the Goddess
-	- rarity pack 2
-- shooting rise dragon
-- Aa-Zeus
-- Mecha phantom beast auroradon
-- I:P Masquerena
-	- rarity pack 2
-- Pile Armed Dragon
-- master of blades
+Tidal, Dragon ruler
+Stream, Dragon ruler of Droplets
+Redox Dragon ruler of Boulders
+Reactan Dragon Ruler of Pebbles
+Spright elf
+Garden Rose Maiden
+Maxx "C"
+Apollusa Bow of the Goddess
+shooting rise dragon
+Aa-Zeus
+Mecha phantom beast auroradon
+I:P Masquerena
+Pile Armed Dragon
+master of blades
 
 
 
@@ -58,4 +55,4 @@ druler Deck 2 (Kashtira)
 - accel
 - Number F0: Utopic Draco Future
 - Super Starslayer TY-PHON - Sky Crisis
-- 
+
