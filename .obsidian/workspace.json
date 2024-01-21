@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "Yugioh Cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "Yugioh Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "Yugioh Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting MOC.md"
+                "file": "Yugioh Cards.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "c60d0f3823dcf790",
   "lastOpenFiles": [
-    "Yugioh Cards.md",
     "Fleeting MOC.md",
+    "Yugioh Cards.md",
     "Master Duel Pull plans.md"
   ]
 }
