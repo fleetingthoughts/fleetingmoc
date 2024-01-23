@@ -1,3 +1,5 @@
+
+
 // Yu-Gi-Oh! Deck List 
 == MONSTER CARDS (30 cards) == 
 2 Labrynth Cooclock  **(done)**
