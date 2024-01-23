@@ -30,7 +30,7 @@
 1 Dimensional Barrier (**done)**
 3 **Big Welcome Labrynth**
 == EXTRA DECK (15 cards) == 
-1 Dharc the Dark Charmer, Gloomy (done)
+1 Dharc the Dark Charmer, Gloomy **(done)**
 1 Tri-Brigade Arms Bucephalus II
 1 Garura, Wings of Resonant Life
 3 Chaos Angel
