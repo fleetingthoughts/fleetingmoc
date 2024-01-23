@@ -4,7 +4,7 @@
 3 Lava Golem **(done)**
 3 Arianna the Labrynth Servant **(done)**
 1 Lovely Labrynth of the Silver Castle **(done)**
-2 **Lord of the Heavenly Prison** 
+2 **Lord of the Heavenly Prison** **(done)**
 3 **Ash Blossom & Joyous Spring**
 3 **D.D. Crow**
 3 Labrynth Chandraglier (Labrynth Chandraglier)
