@@ -1,3 +1,4 @@
+parent::[[Fleeting MOC]]
 - Summon Sorceress
 - Ultimate offering
 - Slifer the sky dragon
@@ -11,5 +12,12 @@
 - dinowrestler pankertrop
 - 2 alternate art ultimate rare Ghost belle
 - 3 secret rare ghost reaper
-- 3 alternate art ghost reaper
+	- 3 alternate art ghost reaper
+- 3 ghost mourner and moonlit chill
+	- 3 alternate art ghost mourner and moonlit chill
+- 3 secret rare ghost ogre & snow
+	-and 2 alternate arts UR
+- ghost sister & spooky
+	- alternate art ghost sister & spooky 
+- d.d. crow
 - 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labrynth Stocholm WCQ.md",
+                "file": "General Cards to look for.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "Master Duel Pull plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Forbidden or generic cards.md",
+                "file": "UnnecessaryGeneral Forbidden or generic cards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Forbidden or generic cards.md",
+                "file": "General Cards to look for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Forbidden or generic cards.md",
+                "file": "General Cards to look for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Forbidden or generic cards.md"
+                "file": "General Cards to look for.md"
               }
             }
           }
@@ -183,15 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a9143bb478dbe9a",
+  "active": "bcba2989a90821c8",
   "lastOpenFiles": [
-    "General Forbidden or generic cards.md",
     "Fleeting MOC.md",
+    "Labrynth Stocholm WCQ.md",
+    "Master Duel Pull plans.md",
+    "UnnecessaryGeneral Forbidden or generic cards.md",
     "DRuler no ban deck.md",
     "General Cards to look for.md",
     "Labrynth Budapest WCQ.md",
-    "Labrynth Stocholm WCQ.md",
-    "Purrely.md",
-    "Master Duel Pull plans.md"
+    "Purrely.md"
   ]
 }

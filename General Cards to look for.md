@@ -11,33 +11,12 @@ Staples
 - kurikara the divine incarnate - 33.66 (secret rare)
 - raigeiki - 2.69
 - retaliating c
-- 
-
-
-
-
-
-Dragon Ruler Deck 1:
-Tidal, Dragon ruler
-Stream, Dragon ruler of Droplets
-Redox Dragon ruler of Boulders
-Reactan Dragon Ruler of Pebbles
-Spright elf
-Garden Rose Maiden
-Maxx "C"
-Apollusa Bow of the Goddess
-shooting rise dragon
-Aa-Zeus
-Mecha phantom beast auroradon
-I:P Masquerena
-Pile Armed Dragon
-master of blades
-
-
-
-Staples:
+- AA-divine zeus
+- Chaos Angel
+- Super Starslayer TY-PHON - Sky Crisis
 - Droll
 - Triple Talent Tactics
+- Triple tactics thrust
 - Solemn Judgement
 - Infinite Impermanence
 - D. D. crow
@@ -48,6 +27,25 @@ Staples:
 - Change of Heart
 - Harpie's feather duster
 - Snatch steal
+- book of moon
+
+
+
+
+Dragon Ruler Deck 1:
+Tidal, Dragon ruler
+Redox Dragon ruler of Boulders
+Reactan Dragon Ruler of Pebbles
+Garden Rose Maiden
+Maxx "C"
+Apollusa Bow of the Goddess
+shooting rise dragon
+Aa-Zeus
+I:P Masquerena
+Pile Armed Dragon
+master of blades
+
+
 
 druler Deck 2 (Kashtira)
 - Kashtira Fenrir
