@@ -9,4 +9,7 @@
 - Cold Wave
 - Shockmaster
 - dinowrestler pankertrop
+- 2 alternate art ultimate rare Ghost belle
+- 3 secret rare ghost reaper
+- 3 alternate art ghost reaper
 - 
