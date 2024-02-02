@@ -6,3 +6,4 @@ Top 3 Pocket Binders recommendations by Tolerian Community college:
 - Legion Dragonhide portfolios
 - Ultimate Guard Zipfolio 4/9/12 
 	- DO NOT GET THE QUADROW
+

@@ -1,0 +1,12 @@
+- Summon Sorceress
+- Ultimate offering
+- Slifer the sky dragon
+	-  no ability version
+- Winged dragon of Ra
+	-  no ability version
+- Obelisk
+	- no ability version
+- Cold Wave
+- Shockmaster
+- dinowrestler pankertrop
+- 
