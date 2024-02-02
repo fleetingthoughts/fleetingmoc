@@ -20,4 +20,4 @@ parent::[[Fleeting MOC]]
 - ghost sister & spooky
 	- alternate art ghost sister & spooky 
 - d.d. crow
-- 
+- chaos emperor dragon

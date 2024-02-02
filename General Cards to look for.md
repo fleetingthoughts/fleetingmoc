@@ -3,6 +3,9 @@ Parent::[[Fleeting MOC]]
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
 Staples
+-  3 ghost mourner and moonlit chill
+- 3 secret rare ghost ogre & snow
+- ghost sister & spooky
 - book of lunar eclipse
 - crossout designator
 - forbidden chalice  44c
