@@ -1,4 +1,5 @@
 parent::[[Fleeting MOC]]
+- Eclipse Wyvern
 - Summon Sorceress
 - Ultimate offering
 - Slifer the sky dragon
