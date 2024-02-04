@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UnnecessaryGeneral Forbidden or generic cards.md",
+                "file": "General Cards to look for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UnnecessaryGeneral Forbidden or generic cards.md",
+                "file": "General Cards to look for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UnnecessaryGeneral Forbidden or generic cards.md"
+                "file": "General Cards to look for.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a9143bb478dbe9a",
+  "active": "bcba2989a90821c8",
   "lastOpenFiles": [
+    "UnnecessaryGeneral Forbidden or generic cards.md",
     "General Cards to look for.md",
     "Master Duel Pull plans.md",
     "Fleeting MOC.md",
-    "UnnecessaryGeneral Forbidden or generic cards.md",
     "Labrynth Stocholm WCQ.md",
     "DRuler no ban deck.md",
     "Labrynth Budapest WCQ.md",
