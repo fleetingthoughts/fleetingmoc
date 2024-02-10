@@ -3,7 +3,11 @@ Parent::[[Fleeting MOC]]
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
 Staples
--  3 ghost mourner and moonlit chill
+- Solemn Judgement 
+- Solemn Strike
+- Solemn Warning
+- Spellbound
+- 3 ghost mourner and moonlit chill
 - 3 secret rare ghost ogre & snow
 - ghost sister & spooky
 - book of lunar eclipse
@@ -31,6 +35,11 @@ Staples
 - Harpie's feather duster
 - Snatch steal
 - book of moon
+- trickstar reincarnation
+- adamancipator risen - dragite
+- ultimate slayer
+- Bujinki Ahashima
+- Electric Virus
 
 
 
