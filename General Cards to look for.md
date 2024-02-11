@@ -41,6 +41,7 @@ Staples
 - Bujinki Ahashima
 - Electric Virus
 - different dimension ground
+- psy-framelord omega
 
 
 
