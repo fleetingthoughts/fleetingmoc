@@ -45,6 +45,14 @@ Staples
 
 
 
+# Cardbrawlers
+-  Flying "C"
+- Terrors of the Afteroot
+- 2x Draco Berserker of the Teyni
+- Contact "C"
+- Royal Decree
+- Silent Graveyard
+- Lyrilusc - Assembled Nighti
 
 Dragon Ruler Deck 1:
 Tidal, Dragon ruler
