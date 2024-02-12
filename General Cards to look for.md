@@ -65,6 +65,7 @@ Staples
 - 3 x Guardragon Elpy
 - 3 x Knightmare Corruptor Iblee
 - 3x Tri-gate Wizard
+- crystal wing synchro dragon
 
 
 
