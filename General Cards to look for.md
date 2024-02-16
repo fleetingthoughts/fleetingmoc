@@ -6,6 +6,7 @@ Staples
 - Solemn Judgement 
 - Solemn Strike
 - Solemn Warning
+- jet synchron
 - Spellbound
 - 3 ghost mourner and moonlit chill
 - 3 secret rare ghost ogre & snow
