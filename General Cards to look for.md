@@ -3,20 +3,20 @@ Parent::[[Fleeting MOC]]
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
 Staples
+- xyz encore
 - lullaby of obedience
-- Solemn Judgement 
-- Solemn Strike
-- Solemn Warning
-- jet synchron
-- Spellbound
+- 3 x Solemn Judgement 
+- 1 x Solemn Strike
+- 3 xSolemn Warning
+- 3 x jet synchron
+- 3 x Spellbound
 - 3 ghost mourner and moonlit chill
 - 3 secret rare ghost ogre & snow
-- ghost sister & spooky
-- book of lunar eclipse
+- 3 x ghost sister & spooky
+- 3 x book of lunar eclipse
 - crossout designator
-- forbidden chalice  44c
-- forbidden Lance 
-- solemn judgement
+- 3 x forbidden chalice  44c
+- 3 x forbidden Lance 
 - kurikara the divine incarnate - 33.66 (secret rare)
 - raigeiki - 2.69
 - retaliating c
