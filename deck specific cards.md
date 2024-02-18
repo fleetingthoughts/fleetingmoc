@@ -10,4 +10,5 @@ Parent::[[Fleeting MOC]]
 3 x transaction roll back (105)
 **1 x big welcome labrynth** - derpy cards (20)
 3 x black goat laughs (30)
-**3 x arias** - derpy (48)
+**3 x arias** -
+1 x magic deflector

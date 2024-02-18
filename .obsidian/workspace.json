@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Cards to look for.md",
+                "file": "deck specific cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Cards to look for.md",
+                "file": "deck specific cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Cards to look for.md"
+                "file": "deck specific cards.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcba2989a90821c8",
+  "active": "f257c2e262029f71",
   "lastOpenFiles": [
-    "deck specific cards.md",
     "General Cards to look for.md",
+    "deck specific cards.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
     "Fleeting MOC.md",
     "Labrynth Stocholm WCQ.md",
