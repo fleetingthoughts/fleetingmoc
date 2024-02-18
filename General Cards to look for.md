@@ -3,6 +3,7 @@ Parent::[[Fleeting MOC]]
 Recommended Dragon ruler cards: [Yugioh Wiki Link](https://yugioh.fandom.com/wiki/Dragon_Ruler)
 
 Staples
+- lullaby of obedience
 - Solemn Judgement 
 - Solemn Strike
 - Solemn Warning
