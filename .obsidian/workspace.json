@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deck specific cards.md",
+                "file": "Fleeting MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deck specific cards.md",
+                "file": "Fleeting MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deck specific cards.md",
+                "file": "Fleeting MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deck specific cards.md"
+                "file": "Fleeting MOC.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "f257c2e262029f71",
   "lastOpenFiles": [
-    "General Cards to look for.md",
     "deck specific cards.md",
+    "General Cards to look for.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
     "Fleeting MOC.md",
     "Labrynth Stocholm WCQ.md",
