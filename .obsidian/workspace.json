@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f0da38e6506bb0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bcba2989a90821c8",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f257c2e262029f71",
+  "active": "f0da38e6506bb0d8",
   "lastOpenFiles": [
     "deck specific cards.md",
     "General Cards to look for.md",
