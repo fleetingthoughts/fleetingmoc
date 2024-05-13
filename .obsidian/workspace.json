@@ -32,31 +32,29 @@
             }
           },
           {
+            "id": "f0cba3330e232156",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "bcba2989a90821c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Cards to look for.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a9143bb478dbe9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UnnecessaryGeneral Forbidden or generic cards.md",
+                "file": "RC02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "RC02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "RC02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting MOC.md"
+                "file": "RC02.md"
               }
             }
           }
@@ -183,15 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0da38e6506bb0d8",
+  "active": "bcba2989a90821c8",
   "lastOpenFiles": [
-    "deck specific cards.md",
-    "General Cards to look for.md",
-    "UnnecessaryGeneral Forbidden or generic cards.md",
     "Fleeting MOC.md",
-    "Labrynth Stocholm WCQ.md",
-    "Master Duel Pull plans.md",
+    "RC02.md",
     "Labrynth Budapest WCQ.md",
-    "Purrely.md"
+    "UnnecessaryGeneral Forbidden or generic cards.md",
+    "Purrely.md",
+    "Master Duel Pull plans.md",
+    "deck specific cards.md",
+    "Labrynth Stocholm WCQ.md"
   ]
 }
