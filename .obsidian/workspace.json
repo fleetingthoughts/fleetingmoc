@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RC02.md",
+                "file": "RC02 and RC01.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +57,28 @@
             "id": "49738200152c8f18",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Fleeting MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "280b5cf57732ca6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rarity upgrades.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RC02.md",
+                "file": "Rarity upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RC02.md",
+                "file": "Rarity upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RC02.md"
+                "file": "Rarity upgrades.md"
               }
             }
           }
@@ -191,10 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49738200152c8f18",
+  "active": "280b5cf57732ca6f",
   "lastOpenFiles": [
+    "Rarity upgrades.md",
+    "RC02 and RC01.md",
     "Fleeting MOC.md",
-    "RC02.md",
+    "README.md",
     "Labrynth Budapest WCQ.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
     "Purrely.md",
