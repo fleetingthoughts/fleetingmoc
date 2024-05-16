@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49738200152c8f18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcba2989a90821c8",
+  "active": "49738200152c8f18",
   "lastOpenFiles": [
     "Fleeting MOC.md",
     "RC02.md",
