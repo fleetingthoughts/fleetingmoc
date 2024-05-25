@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rarity upgrades.md",
+                "file": "RC02 and RC01.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rarity upgrades.md",
+                "file": "RC02 and RC01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rarity upgrades.md",
+                "file": "RC02 and RC01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rarity upgrades.md"
+                "file": "RC02 and RC01.md"
               }
             }
           }
@@ -207,10 +207,10 @@
   },
   "active": "280b5cf57732ca6f",
   "lastOpenFiles": [
+    "README.md",
     "Rarity upgrades.md",
     "RC02 and RC01.md",
     "Fleeting MOC.md",
-    "README.md",
     "Labrynth Budapest WCQ.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
     "Purrely.md",
