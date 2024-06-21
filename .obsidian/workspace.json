@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cee282e7a28a148b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rarity upgrades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RC02 and RC01.md",
+                "file": "Rarity upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RC02 and RC01.md",
+                "file": "Rarity upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RC02 and RC01.md"
+                "file": "Rarity upgrades.md"
               }
             }
           }
@@ -205,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280b5cf57732ca6f",
+  "active": "cee282e7a28a148b",
   "lastOpenFiles": [
+    "RC02 and RC01.md",
     "README.md",
     "Rarity upgrades.md",
-    "RC02 and RC01.md",
     "Fleeting MOC.md",
     "Labrynth Budapest WCQ.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
