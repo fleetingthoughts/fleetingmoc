@@ -93,14 +93,28 @@
             "id": "513a17d1616ffa3e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "RC02 and RC01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53e1d352ee4bf545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuuzoli Cassim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rarity upgrades.md",
+                "file": "Fuuzoli Cassim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rarity upgrades.md",
+                "file": "Fuuzoli Cassim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rarity upgrades.md"
+                "file": "Fuuzoli Cassim.md"
               }
             }
           }
@@ -227,12 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "513a17d1616ffa3e",
+  "active": "53e1d352ee4bf545",
   "lastOpenFiles": [
     "RC02 and RC01.md",
-    "README.md",
+    "Fuuzoli Cassim.md",
+    "Untitled",
     "Rarity upgrades.md",
     "Fleeting MOC.md",
+    "README.md",
     "Labrynth Budapest WCQ.md",
     "UnnecessaryGeneral Forbidden or generic cards.md",
     "Purrely.md",
