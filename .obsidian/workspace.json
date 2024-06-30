@@ -88,9 +88,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "513a17d1616ffa3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cee282e7a28a148b",
+  "active": "513a17d1616ffa3e",
   "lastOpenFiles": [
     "RC02 and RC01.md",
     "README.md",
