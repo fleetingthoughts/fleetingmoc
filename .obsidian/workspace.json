@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md",
+                "file": "ROTA 2 and 2.5 card Centurion combos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md",
+                "file": "ROTA 2 and 2.5 card Centurion combos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md"
+                "file": "ROTA 2 and 2.5 card Centurion combos.md"
               }
             }
           }
@@ -171,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd769800050669c",
+  "active": "cb404b11010d613c",
   "lastOpenFiles": [
+    "ROTA 1 and 1.5 Centurion Combos.md",
     "ROTA 2 and 2.5 card Centurion combos.md",
     "Fleeting MOC.md",
-    "ROTA 1 and 1.5 Centurion Combos.md",
     "README.md",
     "RC02 and RC01.md",
     "Untitled 1.canvas",

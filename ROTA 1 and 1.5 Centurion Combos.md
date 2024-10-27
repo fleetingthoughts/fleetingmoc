@@ -1,4 +1,6 @@
 - Gargoyle/ Atri in hand result in search for bonds that puts Atri, Trudea, and Primera in S/T
+- Try to normal trudea and summon primera from S/T. This gives potential to search bond to avoid nib on primera + Atri
+- 
 
 **Oath 1 card combo (no discard)**
 - Auxila + S/T Trudea + S/T Primera 
