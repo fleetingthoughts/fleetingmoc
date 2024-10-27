@@ -23,4 +23,5 @@ All Primera Combos are Trudea combos but always 1.5 by searching
 - Auxila + Blazar +S/T Atri,Trudea
 **Stand-up +Gargoyl/Atri**
 - Auxila + blazar + S/T Atri,  Trudea, Primera 
+	- If bonds already in hand, you can search an extra trap off of Auxila
 
