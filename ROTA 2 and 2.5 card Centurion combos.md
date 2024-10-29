@@ -1,3 +1,5 @@
+- Combos involving Oath cannot setup Balzar on your own turn
+
 **Stand-up + Wake-up (discard)**
 - Auxila + blazar + any centurion trap + S/T Atri and Trudea.
 **Primera + Wake-up **
@@ -9,7 +11,7 @@ The above 2 combos get you an extra centurion trap interruption. You play 2 trap
 **Primera + Oath 2.5**
 - Endboard: IP + Auxila + Centurion trap + S/T Trudea and Primera (same endboard as with trudea + Oath 2.5)
 **Stand-up + Oath 2.5** 
-- Endboard: IP + Auxila + Blazar + Centurion trap + S/T Trudea and Primera (same endboard as with trudea + Oath 2.5)
+- Endboard: IP + Auxila + Centurion trap + S/T Trudea and Primera (same endboard as with trudea + Oath 2.5)
 
 **Handtrap on Primera + oath**
 - Auxila + blazar + S/T Trudea and atri
