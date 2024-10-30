@@ -1,4 +1,51 @@
 **Modern**
-Bonfire
+- Armageddon Knight
+- Bonfire
+- Cynet Mining
+- One for One
+- Monstre Reborn
+- Super Poly
+- Grass looks greener
+- Thrust
+- Rivalry of warlord
+- Trap Trick
+
+- Promethean
+- Shizuku
+- Knightmare
+- Dharc
+- SP little
+- Dracco
+- 
+
 
 **Nostalgia**
+- Black Luster
+- Breaker
+- Card Trooper
+- Chaos Emperor
+- Cyber Dragon
+- Gorz
+- Koaki Meiru
+- Magician of Faith
+- Mobius the frost monarch
+- Injection fairy lily
+- Spirit Reaper
+- Substitoad
+- Treeborn
+- Future Fusion
+- Instant Fusion
+- Mage Power
+- Sky striker Engage
+- United we Stand
+- Upstart
+- Imperial Order
+- Icarus Attack
+- Starlight
+- Imperial Order
+- Dark End dragon
+- Brionac
+- Armory Arm
+- Ally of Justice
+- Dark Magician girl the dragon knight
+- 
