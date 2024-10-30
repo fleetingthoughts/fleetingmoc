@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md",
+                "file": "ROTA 2 and 2.5 card Centurion combos.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "265c67bff7e07fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quarter Century Bonanaza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md",
+                "file": "Quarter Century Bonanaza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md",
+                "file": "Quarter Century Bonanaza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROTA 1 and 1.5 Centurion Combos.md"
+                "file": "Quarter Century Bonanaza.md"
               }
             }
           }
@@ -171,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd769800050669c",
+  "active": "265c67bff7e07fbe",
   "lastOpenFiles": [
+    "Quarter Century Bonanaza.md",
     "ROTA 2 and 2.5 card Centurion combos.md",
     "ROTA 1 and 1.5 Centurion Combos.md",
     "Fleeting MOC.md",
