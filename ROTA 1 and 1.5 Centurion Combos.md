@@ -1,3 +1,5 @@
+[[Centurion]]
+
 - Gargoyle/ Atri in hand result in search for bonds that puts Atri, Trudea, and Primera in S/T
 - Try to normal trudea and summon primera from S/T. This gives potential to search bond to avoid nib on primera + Atri
 - Oath combos cannot set up blazar on your own turn.

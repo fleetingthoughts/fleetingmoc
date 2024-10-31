@@ -1,3 +1,4 @@
+[[Fleeting MOC]]
 **Modern**
 - Armageddon Knight
 - Bonfire
@@ -9,6 +10,17 @@
 - Thrust
 - Rivalry of warlord
 - Trap Trick
+- allure of darkness
+- heat wave
+- Toadally awesome
+- eria the water channeler
+- Set rotation
+- Ghost Reaper & Winter Cherries
+- Ghost Sister & Spooky
+- Lord of the Heavenly prison
+- Polymerization
+- Card of Demise
+- Raigeki
 
 - Promethean
 - Shizuku
@@ -48,4 +60,11 @@
 - Armory Arm
 - Ally of Justice
 - Dark Magician girl the dragon knight
+- Judgment Dragon
+- Night Assailant
+- Thunder king Raioh
+- White Stone of Legend
+- Goyo Guardian
+- Magic Cylinder
+- Sakuretsu Armor
 - 

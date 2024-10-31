@@ -1,3 +1,4 @@
+[[Centurion]]
 - Combos involving Oath cannot setup Balzar on your own turn
 
 **Stand-up + Wake-up (discard)**
