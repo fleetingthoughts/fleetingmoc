@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "620853b5423abb17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fleeting MOC"
-            }
-          },
-          {
             "id": "9bd769800050669c",
             "type": "leaf",
             "state": {
@@ -33,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "ROTA 2 and 2.5 card Centurion combos"
+            }
+          },
+          {
+            "id": "6700aed60bfe9d86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -88,23 +86,9 @@
               "icon": "lucide-file",
               "title": "Centurion"
             }
-          },
-          {
-            "id": "87f5231bf4303506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "56447e3941c1d432",
@@ -245,18 +230,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f5231bf4303506",
+  "active": "6700aed60bfe9d86",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2024-12-22.md",
+    "Untitled.canvas",
+    "Fleeting MOC.md",
+    "ROTA 2 and 2.5 card Centurion combos.md",
+    "ROTA 1 and 1.5 Centurion Combos.md",
     "Centurion.md",
+    "Untitled.md",
     "Quarter Century Bonanaza.md",
     "README.md",
-    "Fleeting MOC.md",
-    "ROTA 1 and 1.5 Centurion Combos.md",
-    "ROTA 2 and 2.5 card Centurion combos.md",
     "RC02 and RC01.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Goat and Edison.md",
     "Fuuzoli Cassim.md",
     "Rarity upgrades.md",
