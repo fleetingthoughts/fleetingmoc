@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bd769800050669c",
+            "id": "6700aed60bfe9d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROTA 2 and 2.5 card Centurion combos.md",
+                "file": "Fleeting MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROTA 2 and 2.5 card Centurion combos"
-            }
-          },
-          {
-            "id": "6700aed60bfe9d86",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Fleeting MOC"
             }
           },
           {
@@ -87,8 +75,7 @@
               "title": "Centurion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56447e3941c1d432",
@@ -232,17 +218,19 @@
   },
   "active": "6700aed60bfe9d86",
   "lastOpenFiles": [
-    "2024-12-22.md",
-    "Untitled.canvas",
-    "Fleeting MOC.md",
-    "ROTA 2 and 2.5 card Centurion combos.md",
-    "ROTA 1 and 1.5 Centurion Combos.md",
-    "Centurion.md",
-    "Untitled.md",
     "Quarter Century Bonanaza.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "2024-12-23.md",
+    "Untitled 1.canvas",
+    "ROTA 2 and 2.5 card Centurion combos.md",
+    "Centurion.md",
+    "ROTA 1 and 1.5 Centurion Combos.md",
+    "2024-12-22.md",
+    "Fleeting MOC.md",
+    "Untitled.md",
     "README.md",
     "RC02 and RC01.md",
-    "Untitled 1.canvas",
     "Goat and Edison.md",
     "Fuuzoli Cassim.md",
     "Rarity upgrades.md",
