@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting MOC.md",
+                "file": "ROTA 1 and 1.5 Centurion Combos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fleeting MOC"
+              "title": "ROTA 1 and 1.5 Centurion Combos"
             }
           },
           {
@@ -75,7 +75,8 @@
               "title": "Centurion"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,20 +217,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6700aed60bfe9d86",
+  "active": "265c67bff7e07fbe",
   "lastOpenFiles": [
-    "Quarter Century Bonanaza.md",
     "Fleeting MOC.md",
+    "ROTA 1 and 1.5 Centurion Combos.md",
+    "Centurion.md",
+    "README.md",
+    "Quarter Century Bonanaza.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "2024-12-23.md",
     "Untitled 1.canvas",
     "ROTA 2 and 2.5 card Centurion combos.md",
-    "Centurion.md",
-    "ROTA 1 and 1.5 Centurion Combos.md",
     "2024-12-22.md",
     "Untitled.md",
-    "README.md",
     "RC02 and RC01.md",
     "Goat and Edison.md",
     "Fuuzoli Cassim.md",
