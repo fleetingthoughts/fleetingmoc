@@ -58,9 +58,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "b987d15bdf18ebf5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,8 +214,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "265c67bff7e07fbe",
+  "active": "b987d15bdf18ebf5",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Ryzeal.md",
     "Fleeting MOC.md",
     "ROTA 1 and 1.5 Centurion Combos.md",
@@ -212,7 +225,6 @@
     "README.md",
     "Quarter Century Bonanaza.md",
     "Untitled 2.canvas",
-    "Untitled.canvas",
     "2024-12-23.md",
     "Untitled 1.canvas",
     "2024-12-22.md",
