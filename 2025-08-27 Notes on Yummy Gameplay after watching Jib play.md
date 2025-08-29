@@ -6,3 +6,5 @@ Special summon your monsters with > 1500 Attack in defence mode. Yummy has the o
 In the below screenshot, the opponent's hand was Caeser Valius, Borger, and Ash. To counter the Caeser, we had the option to Snatchy summon Lollipo way to summon two from graveyard which is enough attack to threaten Caeser
 
 ![[Pasted image 20250827022948.png]]
+Jokull search Izuna telegraphs lantern is already in hand. Consider purging the infinitrack river stormer instead of the izuna to play around hard draw lantern.
+![[Pasted image 20250829005756.png]]
