@@ -4,6 +4,7 @@ From [Twitch Stream](https://www.twitch.tv/videos/2545217251) by Jibril after to
 - Acroquey field spell was used turn 1 instead of Mignon fieldspell. See timestampe 59:00 for combo
 	- Combo line involves yummy name + engage/hornet drones
 	- Combo lets you make herald before going into fieldspell
+		- my thought is to just place acroquey anyways to continue extending if they nib and remove a yummy body. This also keeps mignon out of rotation until you actually need it.
 - Almiraj to make more use out of handtraps
 - Black Goat calls Snatchy
 - Engage as a better card than Piri Reis Map because engage is an actual extension past your normal summon. Drawing piri Reis map + 
